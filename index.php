@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Azure Folks! Geetings Fall 2022 group!";
+echo "Good morning people of this lovely universe what is this thing called HTML?";
